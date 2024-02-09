@@ -1,9 +1,8 @@
 Demo
 =========
-<img src="./assets/terminal_preview.png" align="center">
+<img src="./Assets/terminal_preview.png" align="center">
 
 ## Whoa, what is this repo?
-<img src="./media/abilify-nobg.png" align="left" width="25%" />
 Butrin is a terminal theme that features a natural color scheme with a modern flair!
 <br>
 
@@ -33,3 +32,4 @@ Butrin is a terminal theme that features a natural color scheme with a modern fl
 | Bright White   | #F2F2F2  |
 
 ## Linux (WIP)
+
