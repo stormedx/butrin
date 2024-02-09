@@ -1,0 +1,27 @@
+// Created by stormedx
+"schemes":
+    [
+        {
+            "background": "#4b3b3c",
+            "black": "#8c7e78",
+            "blue": "#6699CC",
+            "brightBlack": "#BFACA4",
+            "brightBlue": "#87CEFA",
+            "brightCyan": "#64DBDB",
+            "brightGreen": "#B2D8B2",
+            "brightPurple": "#d8bfd8",
+            "brightRed": "#F2B1B1",
+            "brightWhite": "#F2F2F2",
+            "brightYellow": "#F7DCB4",
+            "cursorColor": "#e39d93",
+            "cyan": "#6FC3B2",
+            "foreground": "#F2F2F2",
+            "green": "#99CC99",
+            "name": "Butrin",
+            "purple": "#c8a2c8",
+            "red": "#E68A8A",
+            "selectionBackground": "#e39d93",
+            "white": "#E2CEBE",
+            "yellow": "#FAD7A0"
+        }  
+      ]
