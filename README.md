@@ -9,8 +9,10 @@ Butrin is a terminal theme that features a natural color scheme with a modern fl
 ## Official Color Pallet
 
 
-| Regular Colors | Hex Code |
+| Colors | Hex Code |
 |------------|--------------|
+| Background | #4b3b3c      |
+| Foreground | #f2f2f2      |
 | Black      | #8c7e78      |
 | Red        | #E68A8A      |
 | Green      | #99CC99      |
@@ -22,14 +24,12 @@ Butrin is a terminal theme that features a natural color scheme with a modern fl
 
 | Bright Colors | Hex Code  |
 |----------------|----------|
-| Bright Black   | #BFACA4  |
-| Bright Red     | #F2B1B1  |
-| Bright Green   | #B2D8B2  |
-| Bright Yellow  | #F7DCB4  |
-| Bright Blue    | #87CEFA  |
-| Bright Magenta | #D8BFD8  |
-| Bright Cyan    | #64DBDB  |
-| Bright White   | #F2F2F2  |
-
-## Linux (WIP)
+| Black   | #BFACA4  |
+| Red     | #F2B1B1  |
+| Green   | #B2D8B2  |
+| Yellow  | #F7DCB4  |
+| Blue    | #87CEFA  |
+| Magenta | #D8BFD8  |
+| Cyan    | #64DBDB  |
+| White   | #F2F2F2  |
 
